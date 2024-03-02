@@ -1,0 +1,3 @@
+C:/Users/olgav/OneDrive/Рабочий стол/02.03/02.03/newres1/CMakeFiles/Rep1.dir
+C:/Users/olgav/OneDrive/Рабочий стол/02.03/02.03/newres1/CMakeFiles/ALL_BUILD.dir
+C:/Users/olgav/OneDrive/Рабочий стол/02.03/02.03/newres1/CMakeFiles/ZERO_CHECK.dir
